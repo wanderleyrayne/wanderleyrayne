@@ -25,13 +25,10 @@ I hold a degree in **Data Science**, a postgraduate qualification in **Cybersecu
 ## 📚 Estudos em andamento | Current learning
 
 - Engenharia de Software e arquitetura de aplicações
-- Desenvolvimento seguro e Secure Software Development Lifecycle
-- DevSecOps e segurança de aplicações
 - Redes, protocolos industriais e Modbus TCP/RTU
 - Programação de CLPs e lógica Ladder
 - Fundamentos de segurança OT/ICS
-- Inteligência cibernética e análise de ameaças
-
+-
 ## 🚀 Projeto em destaque | Featured project
 
 ### [CARBONGRID](https://github.com/wanderleyrayne/carbongrid)
